@@ -10,10 +10,9 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to CODEX</h1>
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p> 
-        <p> First Change</p>
+<iframe src="https://codexudea.github.io">
+  <p>Your browser does not support iframes.</p>
+</iframe>
       </div>
     );
   }
