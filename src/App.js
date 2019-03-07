@@ -10,7 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to CODEX</h1>
         </header>
-<iframe src="https://codexudea.github.io" style="width: 100%;height:500px;">
+<iframe src="https://codexudea.github.io">
       
   <p>Your browser does not support iframes.</p>
 </iframe>
