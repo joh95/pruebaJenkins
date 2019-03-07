@@ -8,9 +8,9 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to CODEX</h1>
+          <h1 className="App-title">..............................</h1>
         </header>
-<iframe src="https://codexudea.github.io" width="80%" height="600px">
+<iframe src="https://codexudea.github.io" width="80%" height="200px">
       
   <p>Your browser does not support iframes.</p>
 </iframe>
